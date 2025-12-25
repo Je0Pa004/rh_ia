@@ -1,0 +1,8 @@
+{
+  "name": "HR Pro Connect",
+  "description": "Système complet de gestion des ressources humaines incluant les employés, départements, salaires et présences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
